@@ -123,7 +123,7 @@ const CitySelect =() =>{
                 You selected <span>{selectedCity}</span>,
                 <span >
                     {" "} 
-                    {selectedState},{selectedCountry}
+                    {selectedState}, {selectedCountry}
                 </span>
             </h2>
           )}
